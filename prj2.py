@@ -11,7 +11,8 @@ Main Menu
 3. To Display Data
 4. To Analyse Data
 5. To delete Data
-6. Exit'''
+6. Exit
+'''
 
 display = '''
 Data Display Menu
@@ -21,7 +22,8 @@ Data Display Menu
 3. Bottom Five Records
 4. Specific Date Records
 5. Display Selected Columns
-6. Return To Main Menu'''
+6. Return To Main Menu
+'''
 
 analysis = '''
 Data Analysis Menu
