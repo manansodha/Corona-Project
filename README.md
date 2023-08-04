@@ -58,12 +58,20 @@ import matplotlib.pyplot as plt
 import os
 ```
 ## Data format and how to work with it
-The data used for the project which is stored in form of comma separated values (CSV), and it has the following column headers.:
+The data used for the project which is stored in form of comma separated values (CSV), and it has the following column headers:
 - Date
 - New Cases
 - Active Cases
 - Recovered
 - Deaths
 The data can be viewed in the [CSV file](cov_data.csv)
+
+## Getting Started
+To get started, follow these steps:
+
+* Clone this repository: git clone https://github.com/manansodha/Corona-Project.git
+* Navigate to the repository: cd supervised-machine-learning
+* Install the required dependencies: pip install -r requirements.txt
+
 ## Contributions
 Contributions are welcome and encouraged! Whether you want to add more features, improve existing code, or fix bugs, your help is appreciated.
