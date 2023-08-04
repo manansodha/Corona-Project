@@ -64,6 +64,7 @@ The data used for the project which is stored in form of comma separated values 
 - Active Cases
 - Recovered
 - Deaths
+  
 The data can be viewed in the [CSV file](cov_data.csv)
 
 ## Getting Started
